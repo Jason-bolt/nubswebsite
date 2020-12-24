@@ -58,7 +58,7 @@
             </a>
           </li>
           <li class="dropdown nav-item">
-            <a class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">About</span> <span class="caret"></span></a>
+            <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">About</span> <span class="caret"></span></a>
             <ul class="dropdown-menu pl-1 bg-primary" style="border: none;">
                 <li><a class="nav-link" href="about_nubs.php">NUBS & NUBS-UCC</a></li>
                 <li><a class="nav-link" href="nubs_anthem.php">NUBS ANTHEM</a></li>
