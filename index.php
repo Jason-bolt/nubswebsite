@@ -25,8 +25,8 @@
           <div class="carousel-item active">
             <img class="d-block w-100" src="img/banner1.png" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
-              <h5>NUBS UCC</h5>
-              <p>...</p>
+              <h5><strong>WELCOME TO NUBS UCC</strong></h5>
+              <!-- <p>...</p> -->
             </div>
           </div>
           <!-- Second image -->
